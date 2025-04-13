@@ -1,3 +1,5 @@
 .idea/
 *.iml
 polish_songs.csv
+/comparison/repositories.csv
+/comparison/shrinked_dataset.csv
